@@ -63,14 +63,18 @@
                     android:layout_width="60dp"
                     android:layout_height="60dp"
                     android:layout_weight="0"
-                    app:srcCompat="@android:color/black" />
+                    android:src="@drawable/tkaruqtkf"
+                    android:adjustViewBounds="true"
+                    android:scaleType="fitCenter" />
 
                 <ImageButton
                     android:id="@+id/imageButton1_2"
                     android:layout_width="60dp"
                     android:layout_height="60dp"
                     android:layout_weight="0"
-                    app:srcCompat="@android:color/black" />
+                    android:src="@drawable/ahrtkf"
+                    android:adjustViewBounds="true"
+                    android:scaleType="fitCenter" />
 
             </LinearLayout>
 
