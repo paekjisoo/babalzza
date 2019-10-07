@@ -39,6 +39,7 @@
         android:layout_marginEnd="15dp"
         android:layout_marginRight="15dp"
         android:background="#EEEEEE"
+        android:gravity="center"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/mainText">
@@ -47,7 +48,7 @@
             android:id="@+id/safeText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="안전해요"
+            android:text="안전해요      "
             android:textColor="#32CD32"
             android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 
@@ -63,7 +64,7 @@
             android:id="@+id/dangerText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="위험해요"
+            android:text="     위험해요"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             android:textColor="#FF4500" />
     </TableRow>

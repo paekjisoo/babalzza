@@ -21,6 +21,7 @@ import android.widget.EditText;
 public class AddActivity extends AppCompatActivity {
 
     private ImageButton ib1_1, ib1_2, ib2_1, ib2_2;
+    private EditText nText, qText, dText;
     private DbOpenHelper mDbOpenHelper;
 
     @Override
@@ -75,9 +76,9 @@ public class AddActivity extends AppCompatActivity {
         builder.setPositiveButton("추가", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
-                EditText nText = (EditText)findViewById(R.id.nameText);
-                EditText qText = (EditText)findViewById(R.id.quantityText);
-                EditText dText = (EditText)findViewById(R.id.duedateText);
+                nText = (EditText)view.findViewById(R.id.nameText);
+                qText = (EditText)view.findViewById(R.id.quantityText);
+                dText = (EditText)view.findViewById(R.id.duedateText);
 
                 String ingredient = nText.getText().toString();
                 Integer quantity = Integer.parseInt(qText.getText().toString());
