@@ -1,0 +1,901 @@
+[33mcommit ab7609d2957bfa4df86a71685512ade8747096bc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Wed Dec 4 22:28:00 2019 +0900
+
+    황보진우: 선호도 정보 입력에서 데이터베이스를 리스트뷰에 띄우고 검색하는 기능까지 구현하였습니다. 선택한 리스트를 감지하여 다음 액티비티로 넘기는 기능을 구현하는 중입니다.
+
+[33mcommit 3795cfa1cc44d7e4309ea8954e4fb0c8dfded739[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Wed Dec 4 20:23:53 2019 +0900
+
+    recommendation part2
+
+[33mcommit 5d9efce4c67ef0fc89cee2079b1801b0ad048515[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Wed Dec 4 17:16:50 2019 +0900
+
+    recommendation 1
+
+[33mcommit b8ed6b30bbf1786cc2efd4c293715bdc3d50214f[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Tue Dec 3 22:50:57 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit 688cec60740e66c5e1abf743a9b0ff6bbff4b1ab[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Tue Dec 3 19:59:32 2019 +0900
+
+    식단추천v2
+
+[33mcommit 3b077d03fac1570eb1a3619edf87969cf28cb66f[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Tue Dec 3 17:08:03 2019 +0900
+
+    식단추천 개발을 위한 프로젝트 생성, PSP 업데이트
+
+[33mcommit 9418b8453a0a73ba57f3033da85e6c3b13ffeb9b[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Tue Dec 3 14:19:54 2019 +0900
+
+    나승원 psp 수정
+
+[33mcommit c972e7cda9a7ff114f100ca7fe1bbbebfef468ef[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Tue Dec 3 14:00:19 2019 +0900
+
+    황보진우 psp 수정했습니다
+
+[33mcommit 874414be3b9d1c604f42bbf7040e5a43594cc72f[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Mon Dec 2 21:46:44 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit 7a3edc72e1637a1e2c9fb77e89031adad786d8da[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Mon Dec 2 21:43:32 2019 +0900
+
+    식재료관리 지수 병합 ver, PSP 업데이트
+
+[33mcommit 2e4b2893a5420404dbfe0206b7a3a4dcbfaa9f0b[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Sat Nov 30 13:23:26 2019 +0900
+
+    ing1130_2
+
+[33mcommit f4dfb83e82ec6ac5af15a254bdfc8753ded97f6f[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Sat Nov 30 13:22:10 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit 669950882f1e9b616708be192144493c6730c8d0[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Sat Nov 30 11:41:42 2019 +0900
+
+    ing 1130
+
+[33mcommit 2e8ebc47250ee9e2dbf479dd1851278aeaf90583[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Sat Nov 30 10:28:49 2019 +0900
+
+    나승원 psp 수정
+
+[33mcommit bc359f9ded94b5b6823a7fa022362b269f207d4e[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Fri Nov 29 21:41:51 2019 +0900
+
+    ing 1129 v2
+
+[33mcommit cb67e29b0283ccf46718c94080077103c5e9f0a8[m
+Merge: a770a70 f2e4924
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Fri Nov 29 21:32:02 2019 +0900
+
+    Merge branch 'master' of https://github.com/paekjisoo/babalzza
+
+[33mcommit a770a70a9d2bd92132cb63f6298bcbc24bbdeba1[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Fri Nov 29 21:31:25 2019 +0900
+
+    1129 ing 2
+
+[33mcommit f2e49244c2441e3d6faed75d8ff6dea18372305e[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Fri Nov 29 21:12:25 2019 +0900
+
+    황보진우: 로그인 & 회원가입 리팩토링 진짜 완료했습니다. 이제부터 테스트 케이스 작업 들어가겠습니다.
+
+[33mcommit 1ca733cfe36c3467f1c9e0f0d28cb6b312da5242[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Thu Nov 28 20:06:05 2019 +0900
+
+    .
+
+[33mcommit 9aa714860e181976a1a73dc9bf12f484c946cffb[m
+Author: kimjh929 <kimjh929@naver.com>
+Date:   Thu Nov 28 19:17:32 2019 +0900
+
+    김정현 PSP 수정 & 식단추천 Activity 1128
+
+[33mcommit 3a80dd22f863b6f08abbd9699a57b9b3137ca6bc[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Thu Nov 28 10:31:07 2019 +0900
+
+    나승원 PSP 수정
+
+[33mcommit 2d882dee5bdfaf2e465865536328f441b13c2a9d[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Thu Nov 28 10:06:29 2019 +0900
+
+    코드병합 1차합본
+
+[33mcommit ed7104190855ee2ed4c63ef6770734fd428dfbb7[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Thu Nov 28 04:22:21 2019 +0900
+
+    1127 백지수 PSP 수정
+
+[33mcommit 5d803df704d81908b740f6ce02fbd6192fec8685[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Wed Nov 27 22:24:06 2019 +0900
+
+    황보진우: 로그인, 회원가입, 회원정보조회 기능 Boundary/Controller/Entity로 리팩토링 완료하였습니다.
+
+[33mcommit 4b524dd4e7bb12b87c25804c21d03a5c1ce905d3[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Wed Nov 27 19:37:37 2019 +0900
+
+    ing update & 나승원 PSP 수정
+
+[33mcommit f9514427a9729e7a8a3d786cb7b62b5f5f4ed5d5[m
+Merge: fc5e6dc 0250654
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Wed Nov 27 19:35:30 2019 +0900
+
+    .
+
+[33mcommit fc5e6dcf8e122c4eb82430a281628a8c65d2295e[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Wed Nov 27 19:31:05 2019 +0900
+
+    ing update & 나승원 PSP 수정
+
+[33mcommit 02506547b27b7600a39d510e2cde7108b2862b65[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Wed Nov 27 19:30:33 2019 +0900
+
+    황보진우 psp 수정했습니다
+
+[33mcommit 3d212ec66c7d37a30241a9edbbe0604bb0290f64[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Wed Nov 27 10:54:00 2019 +0900
+
+    나승원 PSP 수정
+
+[33mcommit 04f1ae2391e74e6c04a76976668d758a77c489fe[m
+Author: 01sungjun <lsjt51@naver.com>
+Date:   Tue Nov 26 21:08:28 2019 +0900
+
+    PSP 수정했습니다!
+
+[33mcommit d1c0d3674902bb06df243fee7a328d2f61a3d81b[m
+Author: 01sungjun <lsjt51@naver.com>
+Date:   Tue Nov 26 21:01:48 2019 +0900
+
+    PSP
+
+[33mcommit f3bc090a595a29232bdce179050eef3d29d29d74[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Tue Nov 26 16:42:57 2019 +0900
+
+    1126 백지수 PSP, PMP 현황 업데이트
+
+[33mcommit 45410c292cb3614369adce46d7bf1f6d9d989ae9[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Tue Nov 26 14:13:23 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit c58d9a447cc879e5741eb17e7d004d8f102e286b[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Tue Nov 26 14:02:40 2019 +0900
+
+    1126 psp 업데이트
+
+[33mcommit 56a25635f8aa7d7eefc22743b532ae547b778d7d[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Tue Nov 26 00:52:52 2019 +0900
+
+    나승원 PSP 수정
+
+[33mcommit 355f7ef9c721194ed9804b75cb281dd34a537084[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Tue Nov 26 00:49:39 2019 +0900
+
+    식재료 DB 연동
+
+[33mcommit f7570f987ce35ecf21c0b3ac25a6ce4914a6fa89[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Mon Nov 25 22:16:38 2019 +0900
+
+    최재영 식재료 관리 1125
+
+[33mcommit aea673149b77e123c140b93d93fb6395f2771acb[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Mon Nov 25 19:48:44 2019 +0900
+
+    2차 db연동 테스트파일
+
+[33mcommit 5b55c872ac34431eeec2cac8cf79a2b6e33c28f6[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Mon Nov 25 17:10:23 2019 +0900
+
+    황보진우: 로그인 & 회원가입 기능 뼈대는 완성했습니다. 남은 부분은 유저 선호정보를 받는 기능인데 이부분은 식재료와 메뉴 등 DB가 들어와야 구현할 수 있을 것 같습니다. 우선은 아이디, 닉네임, 비밀번호만 입력받아 가입한 후 닉네임/비밀번호는 변경할 수 있도록 구현하였습니다.
+
+[33mcommit 26cbe4f02818ea0808208658908b84894e81a351[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Mon Nov 25 13:55:39 2019 +0900
+
+    db연동테스트파일추가
+
+[33mcommit 183c61da6e14269d3e860e20fcd0e37be36b410c[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Mon Nov 25 00:58:47 2019 +0900
+
+    나승원 PSP 수정
+
+[33mcommit 4320bc3e270eae15e359cc47d9b1fb1e8d450b07[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Mon Nov 25 00:52:45 2019 +0900
+
+    코드정리&1차호환
+
+[33mcommit f5ca57e7839724d4780611d8131b51ee6b1e686e[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Sun Nov 24 22:22:39 2019 +0900
+
+    최재영 식재료 관리 1124
+
+[33mcommit 201134591705050a45811acd9a9ff67c0422f83b[m
+Author: kimjh929 <kimjh929@naver.com>
+Date:   Sun Nov 24 21:43:58 2019 +0900
+
+    김정현 PSP 수정했습니다
+
+[33mcommit c64fe1532a5b17fa2add0c14b2092a1d5fe803c7[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Sun Nov 24 18:13:15 2019 +0900
+
+    황보진우: 로그인 & 회원가입 기능 version 3 올립니다. 현재 마지막 페이지에서 DB 저장에 오류가 있는 것 같습니다. 또 유저 선호 정보 저장은 아직 구현 안됐습니다.
+
+[33mcommit acb4176c85e5c8e81504a064fffe045542722c37[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Sun Nov 24 18:01:33 2019 +0900
+
+    1123 백지수 psp 수정, pmp 업데이트
+
+[33mcommit aaa3a384f101711c6ac95a09c2e1aee4b645dabb[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Sun Nov 24 15:26:47 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit 2838bcdc4d9577d3b7f5cdf089eae6ddfde2a886[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Sun Nov 24 13:18:27 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit f651c05f3509fd6cdaff206e261c747976fa5378[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Sat Nov 23 18:10:03 2019 +0900
+
+    황보진우: 로그인 & 회원가입 기능 version 2 올렸습니다. SQLite를 통해 DB  생성 및 조회까지 구현 완료하였습니다.
+
+[33mcommit cf1e406e566685d63f964aa45361a45ca690c996[m
+Author: yoon-chaejin <choijaeyoung@choejaeyeong-ui-MacBookPro.local>
+Date:   Sat Nov 23 11:18:11 2019 +0900
+
+    최재영 PSP 수정 및 식재료 관리 업데이트
+
+[33mcommit d8d68ffc9778bb8115c95133f49e04b971b95251[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Fri Nov 22 22:07:35 2019 +0900
+
+    1122 백지수 PSP 수정
+
+[33mcommit 11b6817a84acf25bba217df440467ae45fa6badb[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Fri Nov 22 13:07:54 2019 +0900
+
+    황보진우 psp 수정했습니다
+
+[33mcommit bb1b10ca4d1ff895776d224bd92c53108aaa9f7a[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Fri Nov 22 12:58:12 2019 +0900
+
+    1122 백지수 PSP, PMP 업데이트
+
+[33mcommit cd6d29d23cb6b3417ed2a69b82b93c0b2cc7c01a[m
+Author: yoon-chaejin <choijaeyoung@choejaeyeong-ui-MacBookPro.local>
+Date:   Fri Nov 22 11:41:57 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit cbec1f19788fa7ccf42bec94de7fcd6262fb637b[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Thu Nov 21 10:37:10 2019 +0900
+
+    로그인, 회원가입 기능_v1 - 황보진우
+
+[33mcommit 26aaa173ee62dfcc57254a59dd7503d52c425bc9[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Tue Nov 19 23:30:25 2019 +0900
+
+    1119 백지수 PSP 업데이트
+
+[33mcommit 0dc5f4c93522d22f03313f436174bca37b807c5f[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Mon Nov 18 13:06:15 2019 +0900
+
+    황보진우 PSP수정했습니다
+
+[33mcommit dfe1bac47bc644d27b808fe035050b31998a393e[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Mon Nov 18 03:02:50 2019 +0900
+
+    1117 백지수 PSP 업데이트
+
+[33mcommit 585faf878a660b19e5f71f0583f6ae05d7cebefb[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Sat Nov 16 19:09:16 2019 +0900
+
+    1116 백지수 PSP 수정, PMP 업데이트
+
+[33mcommit c79a4bd2a3cb5e87973bbf677af1fcfcc5211e14[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Thu Nov 14 13:45:04 2019 +0900
+
+    나승원 PSP 수정
+
+[33mcommit 97c731729bd358f77b812b3549791f6908dfe41c[m
+Author: kimjh929 <kimjh929@naver.com>
+Date:   Thu Nov 14 13:03:49 2019 +0900
+
+    김정현 PSP 수정했습니다
+
+[33mcommit f5cdf8fe949ccc2ebc6d2ccfe4048d912efb7946[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Thu Nov 14 10:03:28 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit dfa5a15ed540aac6f4c212ca2b38f319ea99bff3[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Thu Nov 14 02:32:05 2019 +0900
+
+    1114 백지수 PSP, PMP 업데이트, 문서업로드
+
+[33mcommit a94b62fc70cc6e24a1d7404149c5c1b8cdb81558[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Wed Nov 13 03:50:30 2019 +0900
+
+    1112 백지수 PSP, PMP 업데이트
+
+[33mcommit 5029ccec6680d841d65d941068ccb1898feec632[m
+Merge: f683e63 56c3b62
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Tue Nov 12 11:08:52 2019 +0900
+
+    황보진우 psp 수정했습니다
+
+[33mcommit f683e63211561255bee2a817848543e17a2a832b[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Tue Nov 12 10:54:23 2019 +0900
+
+    황보진우 PSP 수정했습니다
+
+[33mcommit 56c3b624b883a7f0ab28aa452ddf24714aadf6a8[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Tue Nov 12 10:43:02 2019 +0900
+
+    PSP, PMP, 파일 업데이트
+
+[33mcommit 1143f4f6e4663029c1d2b995a17f4f72b333d04e[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Mon Nov 11 22:43:11 2019 +0900
+
+    CR 구현 v1.0
+
+[33mcommit 2ef1d7fd8e4fd61a4edcccc44173b24cb8088a51[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Mon Nov 11 22:39:38 2019 +0900
+
+    나승원 PSP 수정
+
+[33mcommit 5314b15a4f50c0214573caf81c07f22553153cf9[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Sun Nov 10 15:21:36 2019 +0900
+
+    나승원 psp 수정
+
+[33mcommit 5c8f6d1ae93992856c300e8dc35929260d1e89a0[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Sun Nov 10 15:09:35 2019 +0900
+
+    개발 샘플 파일
+
+[33mcommit be995d8d5cb1d2de99a71cb7c94399b8240ddb2b[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Fri Nov 8 03:05:07 2019 +0900
+
+    PMP, PSP 백지수 업데이트
+
+[33mcommit 4e0b07bd8b7827b7c3cdb93db228ce98d83e8f22[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Wed Nov 6 15:53:05 2019 +0900
+
+    PMP, 제출한 문서들 깃헙 업로드
+
+[33mcommit aa604e7c7e47f1736150c3f659717c7c4b4f5f65[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Wed Nov 6 15:09:01 2019 +0900
+
+    1105 백지수 PSP 업데이트
+
+[33mcommit 4115631b6ec2a9e79e8e9c347e29b32c3d0af88c[m
+Author: kimjh929 <kimjh929@naver.com>
+Date:   Tue Nov 5 16:58:45 2019 +0900
+
+    김정현 PSP 수정했습니다
+
+[33mcommit 64fc776273bc0cd78cf0ac6cf060ba8f70210185[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Tue Nov 5 16:46:56 2019 +0900
+
+    황보진우 PSP 수정했습니다
+
+[33mcommit e966041b03f9fc600e7a517e3878955ca67ac33f[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Tue Nov 5 16:35:02 2019 +0900
+
+    커밋 테스트
+
+[33mcommit cd3c41046d03224d89cb330267d9d2859d7859e6[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Mon Nov 4 00:10:13 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit db8bb49628ecf98f7e17f2b4b02594f003c4a9c1[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Sun Nov 3 23:39:26 2019 +0900
+
+    최재영 psp 수정
+
+[33mcommit 250702b22fd6afd6d5194e2974b0baa13ef04086[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Sun Nov 3 22:52:19 2019 +0900
+
+    prototyping v2
+
+[33mcommit 57102389391c618381d2f02006f3b88f23638ed6[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Sun Nov 3 15:33:27 2019 +0900
+
+    나승원 PSP 수정
+
+[33mcommit c3c6531712487ba067d47f40f6bcd37118029861[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Sun Nov 3 15:30:16 2019 +0900
+
+    prototyping read
+
+[33mcommit 8710838c6254973194bfe6f54cfb012df5bf2fb5[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Sat Nov 2 19:31:55 2019 +0900
+
+    1102 PMP, 백지수 PSP 업데이트
+
+[33mcommit 8064212b9c464704561c2d83918d0c0ee8429518[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Fri Nov 1 19:42:05 2019 +0900
+
+    PMP, PSP 업데이트 (팀 회의 시간 등록함)
+
+[33mcommit a3cc486d2bd7639f726f2c5bd4514c1474457178[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Thu Oct 31 13:47:26 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit 879d7931b6d70546f95bb54b0a426c511be47fa2[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Wed Oct 30 13:22:26 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit d6eccbf8208e05bd5472d12cd79b2f2808a28584[m
+Author: 01sungjun <lsjt51@naver.com>
+Date:   Tue Oct 29 11:10:59 2019 +0900
+
+    이성준 PSP 수정했습니다2
+
+[33mcommit 95926327efe8fe5b8e68609196b4eb5d4b415675[m
+Merge: e93b3e2 fc82a20
+Author: 01sungjun <lsjt51@naver.com>
+Date:   Tue Oct 29 11:04:57 2019 +0900
+
+    이성준 PSP 수정했습니다
+
+[33mcommit e93b3e27efa4583e706ccabf80498ca4a156b245[m
+Author: 01sungjun <lsjt51@naver.com>
+Date:   Tue Oct 29 09:20:25 2019 +0900
+
+    이성준 PSP 수정했습니다
+
+[33mcommit fc82a209859a9149a55c121f9aa75f25285746a3[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Mon Oct 28 19:58:46 2019 +0900
+
+    황보진우 psp 수정했습니다
+
+[33mcommit 28bb9d8d587fead12cb1068d9d91cb86cfb842dd[m
+Author: kimjh929 <kimjh929@naver.com>
+Date:   Mon Oct 28 00:25:37 2019 +0900
+
+    김정현 PSP 수정했습니다
+
+[33mcommit d4a651a559ff74135981b28cf55bb706ab36a6d5[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Mon Oct 28 00:11:42 2019 +0900
+
+    1027 백지수 PSP 수정2
+
+[33mcommit f15430f3725299d8be53ab3d46e93c8330359cc6[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Sun Oct 27 22:37:04 2019 +0900
+
+    나승원 PSP 수정
+
+[33mcommit 572b4a5d6c331010bcb729b4b0e49d847f3d16d9[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Sun Oct 27 19:33:40 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit 5088b9cec196d128b2cc0307adab8e67a268a22e[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Sun Oct 27 17:13:55 2019 +0900
+
+    1027 백지수 PSP 수정
+
+[33mcommit 1acaaa70445be517f57056aa1a712eb93da47e55[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Sun Oct 27 12:43:01 2019 +0900
+
+    API 사용 도큐먼트
+
+[33mcommit c386de11ca8727de53439ab2c364da615523e3c1[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Sun Oct 27 12:42:28 2019 +0900
+
+    1027 PMP 업데이트
+
+[33mcommit 4b48d4f703dddc52e984f637ae4b144d5b0095a0[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Sat Oct 26 19:42:14 2019 +0900
+
+    메뉴v1 빈도수 추가
+
+[33mcommit b69cb2c3e7d59857f4226f7985525741f45814a0[m
+Merge: 967b37b 60f07cc
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Sat Oct 26 13:02:04 2019 +0900
+
+    황보진우 psp 수정했습니다
+
+[33mcommit 967b37b3fc722662239af0f86130e5c1ebd2f327[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Sat Oct 26 12:59:22 2019 +0900
+
+    황보진우 psp 수정했습니다
+
+[33mcommit 60f07cc0339b97ff7feab1bdb91a8055f8820e97[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Sat Oct 26 09:03:56 2019 +0900
+
+    PMP 업데이트, 메뉴 업로드
+
+[33mcommit 5d2f054ea89122440283eea56b8e22e5853c61f7[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Sat Oct 26 08:20:24 2019 +0900
+
+    1025 백지수 PSP 수정3
+
+[33mcommit 85d259d7ccb45717cce998dcf34aeb5e0278accc[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Fri Oct 25 16:45:52 2019 +0900
+
+    1025 백지수 PSP 수정2
+
+[33mcommit 9d519201dc04be917c9478556f5471c1b7679036[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Fri Oct 25 16:04:28 2019 +0900
+
+    1025 백지수 PSP 수정
+
+[33mcommit 2da52a4770146f6e8587e4689d38005f86c8e157[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Thu Oct 24 17:37:44 2019 +0900
+
+    PMP 수정, 1024 백지수 PSP 수정, UC Spec 수정
+
+[33mcommit 655d7132c227f91587cf98fb14816c3ef66a0330[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Thu Oct 24 12:29:51 2019 +0900
+
+    최재영 PSP 수정
+
+[33mcommit c0e2101653d0fa0867279d0b538ac77fde82a2ed[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Wed Oct 23 21:25:59 2019 +0900
+
+    깃헙 버전관리 수정
+
+[33mcommit 4573e1b82b49a99003f5d40f2874f7478f7e75e2[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Fri Oct 18 14:23:46 2019 +0900
+
+    PMP 업데이트 및 1018 백지수 PSP 수정
+
+[33mcommit 18a4a7b4b1f5b36d063b991c00b60ba5176f110a[m
+Merge: 323781b e8848a0
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Thu Oct 17 14:08:52 2019 +0900
+
+    황보진우 PSP 수정했습니다
+
+[33mcommit e8848a0a51c85f7ec9db40ebd30b239fd4e0c96e[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Thu Oct 17 13:48:04 2019 +0900
+
+    PMP 새 task 등록
+
+[33mcommit 6fbbc6d4f35ab8ae5a2aed8b7a223a78b6cd41b8[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Thu Oct 17 13:21:02 2019 +0900
+
+    최재영 PSP 수정했습니다
+
+[33mcommit 323781b12fc1c453a917b2c1432db7a6dbfc199e[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Thu Oct 17 10:38:02 2019 +0900
+
+    황보진우 PSP 수정했습니다
+
+[33mcommit 64e04d8bd0acd916461ca15d003dbe913d8ef1cb[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Thu Oct 17 00:32:22 2019 +0900
+
+    최재영 PSP 수정했습니다
+
+[33mcommit 8f8ec26b74b70a4f8b4bace1c5c5cba36d03ddea[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Wed Oct 16 15:28:56 2019 +0900
+
+    나승원 PSP 수정
+
+[33mcommit 1ad377e6d53f815f7fedeac44f40546ef4cef129[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Tue Oct 15 16:15:32 2019 +0900
+
+    최재영 PSP 수정합니다
+
+[33mcommit d60199b3d2a533ef205aeb5407746dadcc40ad05[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Tue Oct 15 12:57:23 2019 +0900
+
+    최재영 Prototyping update
+
+[33mcommit 999dd3d79ca25aeef889467931c8a074d990a360[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Sun Oct 13 21:46:39 2019 +0900
+
+    최재영 PSP 수정했습니다
+
+[33mcommit 3b92ffdee6e6444d7606353b748fc0db5736b09a[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Sun Oct 13 18:41:30 2019 +0900
+
+    prototyping v1 sample 업로드
+
+[33mcommit 351b68d290cc10ffaca5517e7b8d2a26ace1dbb7[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Sun Oct 13 15:54:25 2019 +0900
+
+    나승원 PSP 수정
+
+[33mcommit b1c1eda12d36ebe7719c7afa0d6dcf4d1e0ab483[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Sun Oct 13 03:25:11 2019 +0900
+
+    나승원 PSP 수정
+
+[33mcommit 056133c38a3bf9bc6b5c54189bdb5c08f3c3a618[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Sun Oct 13 01:47:01 2019 +0900
+
+    1013 백지수 PSP 수정 및 PMP 수정
+
+[33mcommit 375e0bd44c97f094c8289258ecfc550ec946ad77[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Fri Oct 11 22:32:29 2019 +0900
+
+    1011 백지수 PSP 수정
+
+[33mcommit bf737da09334ceb662c9b2923fb29b39dec33c12[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Thu Oct 10 13:39:48 2019 +0900
+
+    나승원 psp 수정
+
+[33mcommit 7fd86d66a2b1ae8d5437717a591b65364f3b59b0[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Wed Oct 9 11:16:16 2019 +0900
+
+    최재영 PSP 수정했습니다
+
+[33mcommit d9aa8311f850d86898a15f23017e996e401126ba[m
+Merge: 94ee9c9 4952afc
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Wed Oct 9 11:14:41 2019 +0900
+
+    최재영 PSP 수정했습니다
+
+[33mcommit 94ee9c978e3d673470c8cb1e319c74f773005c88[m
+Author: yoon-chaejin <kevin3st@naver.com>
+Date:   Wed Oct 9 10:44:44 2019 +0900
+
+    최재영 PSP 수정했습니다
+
+[33mcommit 4952afc2c623874dda2e0f6eafa555d82d93a525[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Tue Oct 8 13:18:36 2019 +0900
+
+    Project Planning ~UC Spec
+
+[33mcommit bc7fd39de7bf755983c665a81199a043cee527b5[m
+Merge: e3ecd45 0bb3a0c
+Author: kimjh929 <kimjh929@naver.com>
+Date:   Tue Oct 8 12:55:56 2019 +0900
+
+    김정현 PSP 수정했습니다.
+
+[33mcommit e3ecd451b282f99c4d051a63bc9689168b77ffb9[m
+Author: kimjh929 <kimjh929@naver.com>
+Date:   Tue Oct 8 11:22:21 2019 +0900
+
+    김정현 PSP 수정했습니다
+
+[33mcommit 0bb3a0ce004f233d3ddd21c86865cfe883b1be54[m
+Merge: 1e41a4e 7f9d608
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Mon Oct 7 23:34:34 2019 +0900
+
+    황보진우 PSP 수정했습니다
+
+[33mcommit 1e41a4e15ff8dff426fb41bbe58aaca059421066[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Mon Oct 7 23:32:19 2019 +0900
+
+    황보진우 PSP 수정했습니다
+
+[33mcommit 7f9d608d49410aeec99845ea1fcca2dc495987d5[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Mon Oct 7 23:21:48 2019 +0900
+
+    프로토타이핑 수정
+
+[33mcommit 27b11642f027b6c46880c636f8942c5c3c53d099[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Mon Oct 7 23:11:08 2019 +0900
+
+    나승원 PSP수정 및 프로토타이핑 업데이트
+
+[33mcommit 4bbd15f82d374024f33d54c43f09f07be89b8f09[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Mon Oct 7 13:01:31 2019 +0900
+
+    1007 백지수 PSP 수정
+
+[33mcommit 154172cc17e479232a97e4cc6ab7683734caa646[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Mon Oct 7 09:33:35 2019 +0900
+
+    황보진우 PSP 수정했습니다
+    d
+    dsd
+
+[33mcommit 1ea4f0333a03cf7085bf3fd9848d9ba78d15fa1c[m
+Merge: 992c228 2d96c0b
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Mon Oct 7 09:20:05 2019 +0900
+
+    Merge branch 'master' of https://github.com/paekjisoo/babalzza
+
+[33mcommit 992c2285b7ef40ab3855979cac42b57472e7ae70[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Mon Oct 7 09:13:39 2019 +0900
+
+    황보진우 PSP 수정했습니다
+
+[33mcommit 2d96c0b46297cf6cdbc571f2884bba3bdbcd2452[m
+Author: riv1228 <rudqhr1996@naver.com>
+Date:   Fri Oct 4 20:00:54 2019 +0900
+
+    나승원 PSP 수정했습니다
+
+[33mcommit 2e838b81e1efc36d1c102d224a9f24e196d3e197[m
+Merge: b2aac26 6a07b81
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Wed Oct 2 14:46:51 2019 +0900
+
+    황보진우 PSP 수정했습니다
+
+[33mcommit b2aac267b0ea985d15956b8d42af18d01c1519bd[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Wed Oct 2 14:02:51 2019 +0900
+
+    황보진우 PSP 수정했습니다
+
+[33mcommit c612d9a38f45e51e1726c85527435ab78f71714c[m
+Author: GrandNewStart <hbjw123@naver.com>
+Date:   Wed Oct 2 13:44:34 2019 +0900
+
+    황보진우 commit test입니다
+
+[33mcommit 6a07b810780be5403565c8469d64e85713dd0474[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Tue Oct 1 17:50:54 2019 +0900
+
+    백지수 UC Outline 업로드
+
+[33mcommit 0a8e5f29269944fbece7a5f52dbdbc788ae28014[m
+Merge: 33819e1 eca108f
+Author: paekjisoo <natuur714@naver.com>
+Date:   Tue Oct 1 17:48:42 2019 +0900
+
+    백지수 PSP 수정했습니다
+
+[33mcommit 33819e1d383be2dc77a4e51aacddce19e08350b9[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Tue Oct 1 17:44:51 2019 +0900
+
+    백지수 PSP 수정했습니다
+
+[33mcommit 4031ed24a19732b0d709784673100a8d893e71b7[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Tue Oct 1 17:35:00 2019 +0900
+
+    10/1 깃헙 클론 테스트
+
+[33mcommit eca108f15f41c07e8678002e86c179d44b5e2078[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Tue Oct 1 14:17:12 2019 +0900
+
+    프로토타입 10/1
+
+[33mcommit db70ae466d36a88f728779253536c7e89343017b[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Tue Oct 1 14:13:11 2019 +0900
+
+    PSP, PMP 업데이트
+
+[33mcommit 71666725f2075aaf2bb40a05127c0ee2b470e2c9[m
+Author: paekjisoo <natuur714@naver.com>
+Date:   Mon Sep 30 19:33:50 2019 +0900
+
+    Project Planning 자료
